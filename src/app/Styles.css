@@ -1,0 +1,30 @@
+.taskitem{
+  display: grid;
+  grid-template-columns: auto auto;
+  column-gap: 10px;
+}
+
+.line{
+  position: 'absolute';
+  bottom: 0;
+  left: 0;
+  height: 2px;
+  background: #FFFFFF;
+  width: 100%;
+  transform-origin: left
+}
+.white{
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+.tags{
+  display: flex;
+}
+
+.tag{
+  color: #3794FE;
+  background-color: #30363E;
+  padding: 1rem;
+  margin-right: 1rem;
+}
