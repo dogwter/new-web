@@ -1,2 +1,2 @@
-next.js
-github has src only
+made with react using next.js
+use npm run dev to run
