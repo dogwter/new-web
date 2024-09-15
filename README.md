@@ -1,2 +1,3 @@
-made with react using next.js
+made with react using next.js 
+
 use npm run dev to run
